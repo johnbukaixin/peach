@@ -1,6 +1,6 @@
 # peach
 
-> peach博客前端
+> 主要用于为自己搭建一个博客系统，peach是系统中由vue搭建的前端部分。
 
 ## Build Setup
 
